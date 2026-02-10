@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ユーエンミー",
+  "base_artist": "理芽",
+  "createdAt": "2026-02-10T05:14:45.943893Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ユーエンミー",
+      "artist": "理芽",
+      "has_synced": true,
+      "path": "select/01_ユーエンミー_理芽.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ユーエンミー",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/02_ユーエンミー_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ユーエンミー",
+      "artist": "RIM",
+      "has_synced": true,
+      "path": "select/03_ユーエンミー_RIM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユーエンミー",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/pl_01_ユーエンミー_理芽.txt"
+    }
+  ]
+}
